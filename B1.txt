@@ -1,2 +1,2 @@
-archivo 1 B, Segundo cambio 
+archivo 1 B, Segundo cambio, conflicto  
 
