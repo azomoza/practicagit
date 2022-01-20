@@ -1,4 +1,8 @@
+
+archivo 1 B, Segundo cambio, conflicto  
 archivo 1 B
 agrego una linea - particitante A
 archivo 1 B, Segundo cambio 
 conflicto ejercicio 9
+archivo 1 B, Segundo cambio6
+
